@@ -1,4 +1,5 @@
 # Valorr TCG - Plataforma de Cartas Colecionáveis
+![banner](https://mycollectify.s3.us-west-2.amazonaws.com/genesis/0-genesis-collection-cover.jpg)
 
 ## 🎮 Demonstração
 
